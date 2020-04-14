@@ -1,2 +1,0 @@
-# CHEESE
-First time project
